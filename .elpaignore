@@ -1,0 +1,7 @@
+.git
+.gitignore
+.elpaignore
+chess-eco.pos
+chess-test.el
+ChangeLog
+Makefile
